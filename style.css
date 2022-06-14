@@ -1,0 +1,23 @@
+svg {
+  margin: 0 auto;
+  display: block;
+}
+
+.arc {
+  stroke: black;
+}
+
+#label1{
+  display:block;
+}
+#sliderDiv{
+            margin: 0 auto;
+            margin-top: 2em;
+            display: block;
+            text-align: center;
+        }
+
+        input[type="text"] {
+             display: block;
+             margin : 0 auto;
+        }
